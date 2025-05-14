@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geography Quizzes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Geography Quizzes</h1>
+        <p>Test your knowledge of the world!</p>
+    </header>
+
+    <main>
+        <section class="quiz">
+            <h2><a href="#">World Capitals Quiz</a></h2>
+            <p>Can you match all the countries with their capitals?</p>
+        </section>
+
+        <section class="quiz">
+            <h2><a href="#">Continents and Oceans Quiz</a></h2>
+            <p>Identify all the continents and oceans on the map.</p>
+        </section>
+
+        <section class="quiz">
+            <h2><a href="#">Flags of the World Quiz</a></h2>
+            <p>Match the flag to its country!</p>
+        </section>
+    </main>
+
+    <footer>
+        &copy; 2025 Geography Quizzes. All rights reserved.
+    </footer>
+
+</body>
+</html>
