@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geography Quizzes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #2e8b57;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 30px;
+        }
+        .quiz {
+            background: white;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+        .quiz h2 {
+            margin-top: 0;
+        }
+        a {
+            color: #2e8b57;
+            text-decoration: none;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: #ddd;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Geography Quizzes</h1>
+        <p>Test your knowledge of the world!</p>
+    </header>
+
+    <main>
+        <section class="quiz">
+            <h2><a href="#">World Capitals Quiz</a></h2>
+            <p>Can you match all the countries with their capitals?</p>
+        </section>
+
+        <section class="quiz">
+            <h2><a href="#">Continents and Oceans Quiz</a></h2>
+            <p>Identify all the continents and oceans on the map.</p>
+        </section>
+
+        <section class="quiz">
+            <h2><a href="#">Flags of the World Quiz</a></h2>
+            <p>Match the flag to its country!</p>
+        </section>
+    </main>
+
+    <footer>
+        &copy; 2025 Geography Quizzes. All rights reserved.
+    </footer>
+
+</body>
+</html>
